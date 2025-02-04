@@ -1,1 +1,2 @@
-# Hi Everyone Welcome to Edumonkeys![[EduMonkeys.gif]]
+# Hi Everyone Welcome to Edumonkeys
+![[EduMonkeys.gif]]

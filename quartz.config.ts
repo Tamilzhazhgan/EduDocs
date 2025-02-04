@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "EduMonkeys",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -23,31 +23,31 @@ const config: QuartzConfig = {
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
-      typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+     typography: {
+        header: "Roboto Slab",
+        body: "Roboto Slab",
         code: "IBM Plex Mono",
       },
-      colors: {
+         colors: {
         lightMode: {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
+          gray: " #b8b8b8",
           darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          dark: " #2b2b2b",
+          secondary: "#8a5cf5",
+          tertiary: "#4f2e9b",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
+          light: " #161618",
           lightgray: "#393639",
-          gray: "#646464",
+          gray: " #646464",
           darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          dark: " #ebebec",
+          secondary: "#8a5cf5",
+          tertiary: "#a186df",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },
