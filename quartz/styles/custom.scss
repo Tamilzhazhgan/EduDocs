@@ -1,12 +1,11 @@
 
-// put your custom CSS here!
+/* Import Roboto Slab font from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
-
-
-@use "./base.scss";
-
 
 /* Apply the font globally */
 body {
   font-family: 'Roboto Slab', serif;
 }
+
+@use "./base.scss";
+
