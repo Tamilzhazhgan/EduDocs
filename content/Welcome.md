@@ -1,1 +1,1 @@
-# Hi Everyone Welcome to Edumonkeys
+# Hi Everyone Welcome to Edumonkeys![[EduMonkeys.gif]]
