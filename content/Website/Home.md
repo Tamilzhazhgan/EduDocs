@@ -1,4 +1,4 @@
-![[icon.png]]
+![[dns records.png]]
 
 
 ---
